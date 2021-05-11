@@ -2,7 +2,7 @@
 title: generator
 date: 2021-04-11 17:46:14
 excerpt: generator
-tags:
+tags: es6
 position:
 image_url:
 ---

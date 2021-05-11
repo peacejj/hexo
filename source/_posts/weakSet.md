@@ -2,7 +2,7 @@
 title: weakSet和weakMap
 date: 2021-04-23 18:11:47
 excerpt: weakSet和weakMap
-tags:
+tags: es6
 position:
 image_url:
 ---

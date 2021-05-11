@@ -1,8 +1,8 @@
 ---
 title: 前端模块化比较
-date: 2021-05-10 18:13:15
+date: 2020-03-10 18:13:15
 excerpt: 前端模块化比较
-tags:
+tags: js
 position:
 image_url:
 ---
