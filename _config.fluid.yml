@@ -167,8 +167,8 @@ post:
     type: valine
 
 valine:
-  appid:  z0tbdI48i6n76Caa0MN6garl-gzGzoHsz
-  appkey:  bWBLgXQjDRhEJfygVbFPm92b
+  appid:  
+  appkey:
   placeholder: 留下你的足迹~ # 评论框占位提示符
   path: window.location.pathname # 当前文章页路径，用于区分不同的文章页，以保证正确读取该文章页下的评论列表
   avatar: retro # Gravatar 头像展示方式
