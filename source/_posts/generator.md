@@ -3,6 +3,8 @@ title: generator
 date: 2021-04-11 17:46:14
 excerpt: generator
 tags: es6
+categories: 基础知识
+index_img: /images/dark.jpeg
 position:
 image_url:
 ---

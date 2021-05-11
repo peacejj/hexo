@@ -2,9 +2,10 @@
 title: 异步调度任务，同一时间限制输出。
 date: 2021-05-11 10:17:39
 excerpt: 异步调度任务，同一时间限制输出。
-tags: interview
-position:
-image_url:
+tags: [interview,js]
+categories: 项目相关
+index_img: /images/dark.jpeg
+position: 1
 ---
 
 ```

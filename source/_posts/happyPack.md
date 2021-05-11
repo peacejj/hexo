@@ -1,7 +1,8 @@
 ---
 title: happyPack多线程打包
 date: 2021-03-25 17:28:21
-tags:
+tags: [webpack]
+categories: 基础知识
 ---
 ##### 1、安装happypack
 ```

@@ -2,7 +2,8 @@
 title: angular的ChangeDetectorRef
 date: 2020-05-10 16:58:07
 excerpt: angular的ChangeDetectorRef
-tags:
+tags: angular
+categories: 原理知识
 position:
 image_url:
 ---

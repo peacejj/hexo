@@ -2,7 +2,8 @@
 title: jwt token
 date: 2020-12-09 17:06:43
 excerpt: jwt
-tags:
+tags: [token]
+categories: 基础知识
 position:
 image_url:
 ---

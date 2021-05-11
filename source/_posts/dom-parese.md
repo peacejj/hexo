@@ -2,7 +2,8 @@
 title: DOM 解析和渲染
 date: 2021-04-11 10:21:52
 excerpt: DOM 解析和渲染
-tags:
+tags: [html,dom]
+categories: 基础知识
 position:
 image_url:
 ---

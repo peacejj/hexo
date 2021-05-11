@@ -2,6 +2,7 @@
 title: ssh 免密码登录linux
 date: 2019-07-08 17:56:40
 tags: ssh
+categories: 基础知识
 excerpt: ssh配置
 
 ---

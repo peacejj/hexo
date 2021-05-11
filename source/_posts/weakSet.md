@@ -3,7 +3,9 @@ title: weakSet和weakMap
 date: 2021-04-23 18:11:47
 excerpt: weakSet和weakMap
 tags: es6
-position:
+categories: 基础知识
+index_img: /images/dark.jpeg
+position: 2
 image_url:
 ---
 ### weakSet 和 Set 对象的区别有两点:

@@ -2,7 +2,8 @@
 title: angular自定义表单组件
 date: 2020-07-02 17:25:41
 excerpt: angular自定义表单组件
-tags:
+tags: angular
+categories: 项目相关
 position:
 image_url:
 ---

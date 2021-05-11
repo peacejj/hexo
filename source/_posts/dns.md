@@ -2,7 +2,8 @@
 title: dns基于tcp还是udp
 date: 2021-03-11 10:39:57
 excerpt: dns基于tcp还是udp
-tags: 
+tags: [网络]
+categories: 基础知识
 position:
 image_url:
 ---

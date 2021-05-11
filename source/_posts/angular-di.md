@@ -2,7 +2,8 @@
 title: angular-依赖注入
 date: 2020-02-04 17:17:30
 excerpt: 依赖注入
-tags:
+tags: angular
+categories: 原理知识
 position:
 image_url:
 ---

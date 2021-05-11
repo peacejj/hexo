@@ -1,8 +1,9 @@
 ---
 title: angular国际化方案
 date: 2020-05-09 17:30:05
-excerpt: angular
-tags:
+excerpt: angular国际化方案
+tags: angular
+categories: 基础知识
 position:
 image_url:
 ---

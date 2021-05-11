@@ -2,7 +2,8 @@
 title: 消除浏览器对input输入框的自动填充
 date: 2019-05-07 15:42:27
 excerpt: 消除浏览器对input输入框的自动填充
-tags:
+tags: [css,js]
+categories: 项目相关
 position:
 image_url:
 ---

@@ -2,7 +2,8 @@
 title: babel-loader的原理
 date: 2020-07-10 16:01:17
 excerpt: Babel包的构成
-tags:
+tags: webpack
+categories: 原理知识
 position:
 image_url:
 ---

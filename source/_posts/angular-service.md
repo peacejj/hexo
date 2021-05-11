@@ -2,7 +2,8 @@
 title: angular服务详解
 date: 2020-08-04 17:09:56
 excerpt: angular服务详解
-tags:
+tags: angular
+categories: 原理知识
 position:
 image_url:
 ---

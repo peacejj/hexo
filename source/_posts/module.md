@@ -2,7 +2,8 @@
 title: 前端模块化比较
 date: 2020-03-10 18:13:15
 excerpt: 前端模块化比较
-tags: js
+tags: [js,模块化]
+categories: 基础知识
 position:
 image_url:
 ---

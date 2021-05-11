@@ -3,6 +3,7 @@ title: package.json中dependencies 和 devDependencies 区别
 date: 2019-05-10 17:34:20
 excerpt: package.json中dependencies 和 devDependencies 区别
 tags: package
+categories: 基础知识
 position:
 image_url:
 ---

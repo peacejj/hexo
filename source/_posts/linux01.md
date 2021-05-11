@@ -3,6 +3,7 @@ title: linux命令—老记混系列
 date: 2020-11-24 09:59:11
 excerpt: 常用的linux命令
 tags: linux
+categories: 基础知识
 position: 1
 image_url:
 ---

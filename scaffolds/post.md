@@ -2,7 +2,8 @@
 title: {{ title }}
 date: {{ date }}
 excerpt: {{ excerpt }}
-tags:
+tags: [js]
+categories: 项目相关
 position: {{ position }}
-image_url: {{ image_url }}
+index_img: /images/dark.jpeg
 ---

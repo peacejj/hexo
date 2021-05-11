@@ -3,6 +3,7 @@ title: JS中 [] == ![]结果为true，而 {} == !{}却为false
 date: 2019-03-10 17:41:40
 excerpt: js操作符比较
 tags: js
+categories: 原理知识
 position:
 image_url:
 ---
