@@ -5,6 +5,8 @@
 
 ### 1.全局安装hexo-cli
 ```
+node版本切换为12
+
 npm install -g hexo-cli
 或者
 cnpm install -g hexo-cli
