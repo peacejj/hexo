@@ -1,5 +1,8 @@
 # 使用hexo搭建的静态博客网站，自己使用
 
+### [博客网站](https://peacejj.github.io/)
+
+
 ### 1.全局安装hexo-cli
 ```
 npm install -g hexo-cli
